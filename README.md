@@ -1,5 +1,5 @@
-# asapp backend challenge
 
+Client/server multi user chatroom backend.
 
 
 * This app is a simple multi client chat/chatroom app built using Python. 
